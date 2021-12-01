@@ -1,5 +1,5 @@
 # Presentations
-* [Transformers with a focus in CV (Presentation @ 34. Vienna Deep Lerning Meetup, 01.12.2021](https://github.com/MicPie/presentations/blob/master/Presentation_43rd-VDLM_Transformers_with_a_focus_on_CV_20211201.pdf)
+* [Transformers with a focus in CV (Presentation @ 34. Vienna Deep Lerning Meetup, 01.12.2021)](https://github.com/MicPie/presentations/blob/master/Presentation_43rd-VDLM_Transformers_with_a_focus_on_CV_20211201.pdf)
 * [Intro to NN scaling laws & CLIP applications (Hot Topics @ 42. VDLM, 09.11.2021)](https://github.com/MicPie/presentations/blob/master/Hot-Topics_Intro-to-scaling-laws-for-NN_CLIP-applications_42th-VDLM_20211109.pdf)
 * [SimSiam - Exploring simple siamese representation learning (Hot Topics @ 36. VDLM, 09.12.2020)](https://github.com/vdlm/meetups/blob/master/Meetups/Meetup_36/slides/36th%20Deep%20Learning%20Meetup%20Intro%20-%20Announcements%20-%20Hot%20Topics.pdf)
 * [Self-supervised learning for computer vision: SimCLR, MoCo, SwAV & Co. (Presentation @ Graz ML Meetup, 18.11.2020)](https://github.com/MicPie/presentations/blob/master/CV_meetup_self-supervised-learning_Graz-ML_20201118.pdf)
